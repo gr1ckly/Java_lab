@@ -1,0 +1,9 @@
+.gradle
+.idea
+build
+gradle
+META-INF
+out
+build.gradle
+gradlew
+gradlew.bat
